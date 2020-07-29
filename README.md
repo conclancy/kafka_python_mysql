@@ -2,7 +2,7 @@
 
 ### Prework
 [Zookeeper Ubuntu Setup](https://medium.com/@ryannel/installing-zookeeper-on-ubuntu-9f1f70f22e25_)
-[Kafka Ubuntu Setup](https://linuxhostsupport.com/blog/how-to-install-apache-kafka-on-ubuntu-16-04/)
+<br>[Kafka Ubuntu Setup](https://linuxhostsupport.com/blog/how-to-install-apache-kafka-on-ubuntu-16-04/)
 
 ### Tutorial
 [kafka-python-explained](https://towardsdatascience.com/kafka-python-explained-in-10-lines-of-code-800e3e07dad1)
